@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">サンプルアプリ</string>
+    <string name="action_settings">設定</string>
+    <string name="title_activity_screen_transition">画面遷移テスト</string>
+    <string name="title_activity_counter">カウンター</string>
+    <string name="title_activity_timer">タイマー</string>
+    <string name="title_activity_image_view">ImageView</string>
+    <string name="title_activity_image_change">ImageChange</string>
+</resources>
